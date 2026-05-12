@@ -8,7 +8,6 @@
 ## 🧠 What I'm Working On
 - 🧪 Personal research into AI and human decision-making
 - 📱 iOS remote control system for low-latency interactions
-- ✍️ A podcast about hidden stories in economic history
 
 ## ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
